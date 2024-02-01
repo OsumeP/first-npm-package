@@ -1,0 +1,27 @@
+{
+  "name": "osumep-random-str-msg",
+  "version": "1.0.0",
+  "description": "Show different messages from an array.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OsumeP/first-npm-package.git"
+  },
+  "keywords": [
+    "Practice",
+    "String"
+  ],
+  "author": "Juan David Patarroyo Sanchez <juandavid.patarroyosanchez@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OsumeP/first-npm-package/issues"
+  },
+  "homepage": "https://github.com/OsumeP/first-npm-package#readme",
+  "bin": {
+    "osumep-random-str-msg": "bin/global.js"
+  },
+  "preferGlobal": true
+}
